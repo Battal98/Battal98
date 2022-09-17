@@ -10,7 +10,7 @@ Hi there, I am Battal Yiğit 👋
 
 > 🌱 I’m currently learning Unity and C#
 
-> 📫 Reach me with Linked-In: [Battal Yigit PATLAR](https://www.linkedin.com/in/battal-yi%C4%9Fit-patlar-246448161/) 
+> 📫 Reach me with Linked-In: [Battal Yigit PATLAR](www.linkedin.com/in/battalyigitp) 
 
 <!--
 **Battal98/Battal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
