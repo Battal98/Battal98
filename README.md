@@ -8,8 +8,6 @@ Hi there, I am Battal Yiğit 👋
 
 > 🔭 I’m currently working on Self-improvement
 
-> 🌱 I’m currently learning Unity and C#
-
 > 📫 Reach me with Linked-In: [Battal Yigit PATLAR](www.linkedin.com/in/battalyigitp) 
 
 <!--
