@@ -10,9 +10,9 @@ Hi there, I am Battal Yiğit 👋
 
 > 📫 Reach me with Linked-In: [Battal Yigit PATLAR](www.linkedin.com/in/battalyigitp) 
 
-<a href="https://github.com/battal98/github-readme-stats">
+<a href="https://github.com/battal98/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=battal98&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/battal98/convoychat">
+<a href="https://github.com/battal98/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=battal98&repo=convoychat" />
 </a>
