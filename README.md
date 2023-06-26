@@ -10,7 +10,7 @@ Hi there, I am Battal Yiğit 👋
 
 > 📫 Reach me with Linked-In: [Battal Yigit PATLAR](www.linkedin.com/in/battalyigitp) 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battal98&hide=java,html,tex&title_color=dark&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battal98&hide=java,html,tex&title_color=dark&text_color=synthwave&icon_color=synthwave&bg_color=synthwave&langs_count=3" />
 </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=battal98&show_icons=true&line_height=27&count_private=true&title_color=dark&text_color=c9cacc&icon_color=gruvbox&bg_color=tokyonight" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=battal98&show_icons=true&line_height=27&count_private=true&title_color=dark&text_color=c9cacc&icon_color=synthwave&bg_color=tokyonight" alt="Martin's GitHub Stats" />
 </a>
